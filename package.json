@@ -1,0 +1,45 @@
+{
+    "name": "digital-nomad-extension-pack",
+    "displayName": "Digital Nomad Extension Pack",
+    "description": "A collection of essential VS Code extensions for productivity and task management, perfect for digital nomads.",
+    "version": "1.0.1",
+    "publisher": "MeerkatIO",
+    "license": "MIT",
+    "engines": {
+      "vscode": "^1.80.0"
+    },
+    "categories": [
+      "Extension Packs"
+    ],
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/2514millerj/digital-nomad-vscode-extension-pack.git"
+    },
+    "bugs": {
+      "url": "https://github.com/2514millerj/digital-nomad-vscode-extension-pack/issues"
+    },
+    "icon": "digital-nomad.png",
+    "galleryBanner": {
+        "color": "#1e76c9",
+        "theme": "dark"
+    },
+    "extensionPack": [
+      "ms-vscode-remote.remote-ssh",
+      "ms-vscode-remote.remote-containers",
+      "ms-vsliveshare.vsliveshare",
+      "softwaredotcom.swdc-vscode",
+      "MeerkatIO.meerkatio",
+      "alefragnani.project-manager",
+      "Gruntfuggly.todo-tree",
+      "neatsoftware.clockify",
+      "lkytal.pomodoro"
+    ],
+    "keywords": [
+      "productivity",
+      "task management",
+      "digital nomad",
+      "remote work",
+      "work from home"
+    ]
+  }
+  
